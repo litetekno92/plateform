@@ -74,6 +74,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.4.0"
+  platform_aware:
+    dependency: "direct main"
+    description:
+      name: platform_aware
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.0"
   quiver:
     dependency: transitive
     description:
